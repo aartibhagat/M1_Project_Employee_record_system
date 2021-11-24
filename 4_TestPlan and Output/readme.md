@@ -1,3 +1,17 @@
+# Test Plan
+
+|Test ID|Description|Exp I/P|Exp O/P|Actual O/P|Type Of Test|
+|-----|------|-----|-----|-----|------|
+|H_01|check all information related employee put correctly |Id no|record of employee|record Displayed|Requirement Based|
+|H_02|Check wheather same employee record added again |Id no|record of employee|record displayed|Requirement Based|
+
+|Test ID|Description|Exp I/P|Exp O/P|Actual O/P|Type Of Test|
+|-----|------|-----|-----|-----|------|
+|L_01|Check whether it adding,modifying, or deleting the record of employee|Id no|record of employee |records displayed|Scenario Based|
+|L_02|Check wheather there mistakes in records  |Id no |record of employee |record displayed|Scenario Based|
+|L_03|Check all employee have a different employee id  |Id no |record of employee |record displayed|Requirement Based|
+
+
 # Output
 ## First displaying name of the software
 ![first display](https://user-images.githubusercontent.com/94475720/142781427-be9ba632-27fc-4334-b48c-c157c4910018.jpeg)
