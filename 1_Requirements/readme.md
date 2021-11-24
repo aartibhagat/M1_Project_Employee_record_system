@@ -37,7 +37,7 @@ By giving simple information it will recorad all that data in the system.
 -	It can be easily handled by the person who have elementary know ledge of computer  because it provides an user friendly environment.
 ## Weakness:
 -	The system is highly sophisticated handling a wide range of records.
--	It does not provide overall information about employee.
+-	It does not provide overall information about employee. 
 -	Minimum accuracy and security.
 
 ## Opportunities:
