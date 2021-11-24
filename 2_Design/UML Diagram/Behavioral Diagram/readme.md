@@ -13,7 +13,7 @@
 | ID             | Description                                                           |
 | ----------------- | ------------------------------------------------------------------ |
 | LLR1|When user performs the ' Add records ' operation the result should be adding the record of employee.|
-| LLR2|When user performs the ' MOdify records ' operation the result should be modifying the records of existing employee.|                                  
+| LLR2|When user performs the ' Modify records ' operation the result should be modifying the records of existing employee.|                                  
 | LLR3|When user performs the ' Delete records ' operation the result should be deleting the record of employee.|
 | LLR4|When user performs the ' Listing records ' operation the result should be listing the records of all employee.|
 | LLR5|When user performs the ' Exist ' operation the user should exist the system.|
