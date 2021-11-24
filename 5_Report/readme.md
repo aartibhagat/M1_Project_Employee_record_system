@@ -61,3 +61,6 @@ By giving simple information it will recorad all that data in the system.
 | LLR_1 |  Basic information of employee displayed | Implemented  |
 | LLR_2 |  Input from the user  | Implemented  |
 | LLR_3 |  Exit the program  | Implemented  | 
+
+# Behavioral Diagram
+![Behavioral Diagram](https://user-images.githubusercontent.com/94475720/142778914-5c6209bb-1a97-4f1f-ba65-acb11f9d2ffc.png)
