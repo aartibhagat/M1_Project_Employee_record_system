@@ -1,18 +1,24 @@
-name: C/C++ CI
+name: Wndows C/C++ CI
 
 on:
   push:
     branches: [ main ]
   pull_request:
     branches: [ main ]
+    
+workflow_dispatch:
 
 jobs:
+
   build:
 
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
-    - name: make
-      run: make -C 3_Implementation/main.c
-    
+    - name: Run a one line script
+      run: echo Hello, World!
+    - name: Run a multi-line script
+      run: 
+            echo add other actionsto build,
+            echo test, adddeploy your project.
